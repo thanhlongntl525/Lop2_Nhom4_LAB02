@@ -1,0 +1,5 @@
+source "C:/Users/ACER/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/ACER/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/ACER/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/ACER/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/HK8/CE232.N21_TKHTNKD/TH/Lab2/Lab2_n/MSSV/main/Kconfig.projbuild"
